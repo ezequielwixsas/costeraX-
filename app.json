@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "react-native-onlyfans-clone-app",
+    "slug": "react-native-onlyfans-clone-app"
+  }
+}
