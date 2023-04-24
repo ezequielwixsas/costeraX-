@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3onlyfanscloneappstorageb3e1fac4",
+  "bucketName": "onlyfansclone-app-storage-b3e1fac4",
+  "policyUUID": "6c38a4db",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
