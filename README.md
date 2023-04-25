@@ -1,19 +1,46 @@
-# Expo Router Example
+# OnlyFans clone full stack app.
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+### OnlyFans clone app is a full stack app, front end and back end for mobile,replicates the features and functionality to the same.
 
-## 🚀 How to use
+### Built With
 
-```sh
-npx create-react-native-app -t with-router
+```
+Expo
+React-Native
+AWS
+
 ```
 
-## 📝 Notes
+### Clone repo 🔧
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-- [Request for Comments](https://github.com/expo/router/discussions/1)
-# react-native-onlyfans-clone-app
-# react-native-onlyfans-clone-app
-# react-native-onlyfans-clone-app
-# -react-native-onlyfans-clone
+```
+https://github.com/GonzaloVolonterio/react-native-onlyfans
+
+```
+### Install🔧
+
+```
+npm install
+
+npx expo start
+
+```
+
+Or you can Scan QR ,for this you need have the Expo Go app installed.
+
+![qr-onlyfans](https://user-images.githubusercontent.com/64506662/234362778-e328a959-beb7-4d11-9094-9877843d4b64.jpg)
+
+
+Examples App
+
+![Screenshot_20230424-200925](https://user-images.githubusercontent.com/64506662/234362815-97371629-29fb-4609-b2c0-b3b9b11c3665.png)
+
+![Screenshot_20230424-200957](https://user-images.githubusercontent.com/64506662/234362850-86db159c-4dbc-4dae-9038-d30da5685dbc.png)
+
+![Screenshot_20230424-201003](https://user-images.githubusercontent.com/64506662/234362883-9b59aa33-f692-40c4-a7d0-6631419232c4.png)
+
+![Screenshot_20230424-201006](https://user-images.githubusercontent.com/64506662/234362902-4be5d958-39a9-4f9e-bd56-4273180e3e45.png)
+
+![Screenshot_20230424-201031](https://user-images.githubusercontent.com/64506662/234362926-ea5acc5b-31a7-4247-b946-ee12afa00333.png)
+
+
