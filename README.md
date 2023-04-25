@@ -1,4 +1,4 @@
-# OnlyFans clone full stack app.
+# OnlyFans clone Full Stack App
 
 ### OnlyFans clone app is a full stack app, front end and back end for mobile,replicates the features and functionality to the same.
 
@@ -14,7 +14,7 @@ AWS
 ### Clone repo 🔧
 
 ```
-https://github.com/GonzaloVolonterio/react-native-onlyfans
+https://github.com/GonzaloVolonterio/react-native-onlyfans-clone-app
 
 ```
 ### Install🔧
