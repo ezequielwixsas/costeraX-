@@ -33,14 +33,12 @@ Or you can Scan QR ,for this you need have the Expo Go app installed.
 
 Examples App
 
-![Screenshot_20230424-200925](https://user-images.githubusercontent.com/64506662/234362815-97371629-29fb-4609-b2c0-b3b9b11c3665.png)
+![Screenshot_20230424-200925](https://user-images.githubusercontent.com/64506662/234364566-863bc1e1-e289-4b9b-9658-a11e737bebd8.png)
 
-![Screenshot_20230424-200957](https://user-images.githubusercontent.com/64506662/234362850-86db159c-4dbc-4dae-9038-d30da5685dbc.png)
+![Screenshot_20230424-200957](https://user-images.githubusercontent.com/64506662/234364579-8e32708f-cb69-4c1c-82e3-eefd7cb5f161.png)
 
-![Screenshot_20230424-201003](https://user-images.githubusercontent.com/64506662/234362883-9b59aa33-f692-40c4-a7d0-6631419232c4.png)
+![Screenshot_20230424-201003](https://user-images.githubusercontent.com/64506662/234364622-e9cc5d14-77f2-415f-9027-1d3ffe3e7c17.png)
 
-![Screenshot_20230424-201006](https://user-images.githubusercontent.com/64506662/234362902-4be5d958-39a9-4f9e-bd56-4273180e3e45.png)
+![Screenshot_20230424-201006](https://user-images.githubusercontent.com/64506662/234364653-73de6b92-b7a6-4ef7-a3a6-c26411bfd46a.png)
 
-![Screenshot_20230424-201031](https://user-images.githubusercontent.com/64506662/234362926-ea5acc5b-31a7-4247-b946-ee12afa00333.png)
-
-
+![Screenshot_20230424-201031](https://user-images.githubusercontent.com/64506662/234364754-f5ce7da1-1ad1-4e90-bf85-40add436ad23.png)
