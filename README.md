@@ -26,11 +26,6 @@ npx expo start or npm start
 
 ```
 
-Or you can Scan QR ,for this you need have the Expo Go app installed.
-
-![qr-onlyfans](https://user-images.githubusercontent.com/64506662/234362778-e328a959-beb7-4d11-9094-9877843d4b64.jpg)
-
-
 Examples App
 
 ### You need create a free account to use the app
