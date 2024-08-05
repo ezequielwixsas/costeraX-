@@ -6,9 +6,18 @@
 
 ```
 Expo
-React-Native
-AWS
-
+React
+React Native
+Expo crypto
+Expo image picker
+Expo linking
+Aws amplify/ ui-react-native
+Amazon cognito identity-js
+Aws-amplify
+Javascript
+StyleSheet
+React Native gesture handler
+React native reanimated
 ```
 
 ### Clone repo 🔧
